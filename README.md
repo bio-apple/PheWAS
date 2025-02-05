@@ -6,6 +6,18 @@ MPG Primer: PheWAS, UKBB (2024):https://www.youtube.com/watch?v=4evyahwyRNM&t=1s
 
 ![2](./PheWAS-UKBB/2.webp)
 
+**一些biobank project**
+
+![p1](./PheWAS-UKBB/p1.png)
+
+![p1](./PheWAS-UKBB/p2.png)
+
+![p1](./PheWAS-UKBB/p3.png)
+
+![p1](./PheWAS-UKBB/p4.png)
+
+![p1](./PheWAS-UKBB/p5.png)
+
 **biobank关联研究中的问题：样本间相关性高，常规线性模型不合适**
 
 ![3](./PheWAS-UKBB/3.webp)
