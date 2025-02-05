@@ -4,6 +4,8 @@ MPG Primer: PheWAS, UKBB (2024):https://www.youtube.com/watch?v=4evyahwyRNM&t=1s
 
 ![1](./PheWAS-UKBB/1.png)
 
+![a](./PheWAS-UKBB/a.png)
+
 ![2](./PheWAS-UKBB/2.webp)
 
 **一些biobank project**
