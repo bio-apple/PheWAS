@@ -18,7 +18,7 @@ MPG Primer: PheWAS, UKBB (2024):https://www.youtube.com/watch?v=4evyahwyRNM&t=1s
 
 ![p1](./PheWAS-UKBB/p4.png)
 
-![p1](./PheWAS-UKBB/p5.png
+![p1](./PheWAS-UKBB/p5.png)
 
 **关于表型大多用的最多的是ICD，这里提到了Phecode:https://wei-lab.app.vumc.org/phecode**
 
