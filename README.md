@@ -16,7 +16,11 @@ MPG Primer: PheWAS, UKBB (2024):https://www.youtube.com/watch?v=4evyahwyRNM&t=1s
 
 ![p1](./PheWAS-UKBB/p4.png)
 
-![p1](./PheWAS-UKBB/p5.png)
+![p1](./PheWAS-UKBB/p5.png
+
+**关于表型大多用的最多的是ICD，这里提到了Phecode:https://wei-lab.app.vumc.org/phecode**
+
+![phecode](./PheWAS-UKBB/phecode.png)
 
 **biobank关联研究中的问题：样本间相关性高，常规线性模型不合适**
 
@@ -102,8 +106,3 @@ MPG Primer: PheWAS, UKBB (2024):https://www.youtube.com/watch?v=4evyahwyRNM&t=1s
 
 **还有一个，这个全称是看名字应该就知道啥意思：BRaVa:BiobankRareVariant Analysis**
 ![26](./PheWAS-UKBB/26.png)
-
-
-
-
-single-variant association and Collapsing rare variants
